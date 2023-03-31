@@ -1,13 +1,12 @@
 Hi 👋 My name is Ali Abdullah Fouani
 ====================================
 
-Front End Developer
+Full Stack Developer
 -------------------
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [fouaniali08@gmail.com](mailto:fouaniali08@gmail.com)
-* 🧠  I'm learning NodeJs for a MERN Stack project
-* 🤝  I'm open to collaborating on interesting Front End projects
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
